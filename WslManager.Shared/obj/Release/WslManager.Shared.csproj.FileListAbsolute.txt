@@ -1,0 +1,5 @@
+C:\git\WSL-DistroManager\WslManager.Shared\bin\Release\WslManager.Shared.dll
+C:\git\WSL-DistroManager\WslManager.Shared\bin\Release\WslManager.Shared.pdb
+C:\git\WSL-DistroManager\WslManager.Shared\obj\Release\WslManager.Shared.csproj.CoreCompileInputs.cache
+C:\git\WSL-DistroManager\WslManager.Shared\obj\Release\WslManager.Shared.dll
+C:\git\WSL-DistroManager\WslManager.Shared\obj\Release\WslManager.Shared.pdb

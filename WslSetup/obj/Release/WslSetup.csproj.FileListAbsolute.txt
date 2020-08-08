@@ -1,0 +1,10 @@
+C:\git\WSL-DistroManager\WslSetup\bin\Release\WslSetup.exe.config
+C:\git\WSL-DistroManager\WslSetup\bin\Release\WslSetup.exe
+C:\git\WSL-DistroManager\WslSetup\bin\Release\WslSetup.pdb
+C:\git\WSL-DistroManager\WslSetup\bin\Release\WslManager.Shared.dll
+C:\git\WSL-DistroManager\WslSetup\bin\Release\WslManager.Shared.pdb
+C:\git\WSL-DistroManager\WslSetup\obj\Release\WslSetup.csprojAssemblyReference.cache
+C:\git\WSL-DistroManager\WslSetup\obj\Release\WslSetup.csproj.CoreCompileInputs.cache
+C:\git\WSL-DistroManager\WslSetup\obj\Release\WslSetup.csproj.CopyComplete
+C:\git\WSL-DistroManager\WslSetup\obj\Release\WslSetup.exe
+C:\git\WSL-DistroManager\WslSetup\obj\Release\WslSetup.pdb

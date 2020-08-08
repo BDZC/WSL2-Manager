@@ -1,0 +1,6 @@
+C:\git\WSL-DistroManager\WslManager.Shared\bin\Debug\WslManager.Shared.dll
+C:\git\WSL-DistroManager\WslManager.Shared\bin\Debug\WslManager.Shared.pdb
+C:\git\WSL-DistroManager\WslManager.Shared\obj\Debug\WslManager.Shared.csprojAssemblyReference.cache
+C:\git\WSL-DistroManager\WslManager.Shared\obj\Debug\WslManager.Shared.csproj.CoreCompileInputs.cache
+C:\git\WSL-DistroManager\WslManager.Shared\obj\Debug\WslManager.Shared.dll
+C:\git\WSL-DistroManager\WslManager.Shared\obj\Debug\WslManager.Shared.pdb
